@@ -1,0 +1,17 @@
+{
+  "name": "@pentia/configuration.reader",
+  "engines": {
+    "node": ">=7.2"
+  },
+  "version": "1.0.0",
+  "description": "Consume config file and export contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "Brian Frisch <brf@pentia.dk>",
+  "license": "ISC"
+}
