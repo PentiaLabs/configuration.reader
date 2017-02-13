@@ -1,9 +1,9 @@
 {
-  "name": "@pentia/configuration.reader",
+  "name": "@pentia/configuration-reader",
   "engines": {
     "node": ">=7.2"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Consume config file and export contents",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,13 @@
     "config"
   ],
   "author": "Brian Frisch <brf@pentia.dk>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PentiaLabs/configuration.reader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PentiaLabs/configuration.reader/issues"
+  },
+  "homepage": "https://github.com/PentiaLabs/configuration.reader#readme"
 }
