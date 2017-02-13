@@ -6,5 +6,5 @@
 The module exports a method that returns a configuration object.
 
 ```javascript
-const config = require('@pentia/configuration.reader')('.solution-config.json');
+const config = require('@pentia/configuration-reader')('.solution-config.json');
 ```
